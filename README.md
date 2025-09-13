@@ -40,3 +40,9 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    streamlit run run.py
    ```
 Your web browser will open with the application running. You will need to provide your Google API Key in the sidebar to enable code generation.
+
+# Demo (Watch Out the Youtube)
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CtiRyDyZoSU?si=Pz7Ssu14mTBRWYiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
