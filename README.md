@@ -7,6 +7,7 @@ The application then uses the Google Gemini API to generate a complete, runnable
 # Project Structure
 
 The project has been refactored into a modular structure for better organization and scalability:
+```
 excel-automation-agent/
 |
 |-- app/                    # Main application package
@@ -20,7 +21,7 @@ excel-automation-agent/
 |-- .gitignore              # Standard Python gitignore
 |-- requirements.txt        # Project dependencies
 |-- run.py                  # The main entry point to run the application
-
+```
 # How to Run
 1. Clone the repository and navigate to the root directory (excel-automation-agent/).
 
