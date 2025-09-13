@@ -42,7 +42,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Your web browser will open with the application running. You will need to provide your Google API Key in the sidebar to enable code generation.
 
 # Demo (Watch Out the YouTube)
-```
-[![Watch the video](https://img.youtube.com/vi/CtiRyDyZoSU&t=21s/0.jpg)(https://www.youtube.com/watch?v=CtiRyDyZoSU&t=21s)
-```
+
+[![Watch the video](https://img.youtube.com/vi/CtiRyDyZoSU&t=21s/0.jpg)](https://www.youtube.com/watch?v=CtiRyDyZoSU&t=21s)
+
 
